@@ -37,7 +37,10 @@ def main():
         price = sgd(deal.get("price"))
         profit = sgd(deal.get("profit"))
         gain = f"  {profit / (price - profit):+.0%} over {deal.get('holding_period')} yrs" if price and profit else ""
-        print(f"  {deal.get('date'):<8} {deal.get('price'):>12}  {deal.get('area'):>6} sqft  {deal.get('type')}{gain}")
+        # Columns depend on the location: a project returns blk/unit/beds, a wider area
+        # returns address/type. The response's `columns` list says which you got.
+        where = deal.get("address") or f"blk {deal.get('blk')} #{deal.get('unit')}"
+        print(f"  {deal.get('date'):<8} {deal.get('price'):>12}  {deal.get('area'):>6} sqft  {where}  {deal.get('sale_type')}{gain}")
 
 
 if __name__ == "__main__":

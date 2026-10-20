@@ -214,6 +214,11 @@ that produce wrong numbers rather than errors.
   sizes as ranges (`"1,900 - 2,000 sqft"`) and bedrooms as `"3-room"`, not exact values.
 - **`estMortgage` is often null.** It was null on every live rental row we checked; it is a
   display estimate on sale listings, not a quote.
+- **Transaction columns change with the location.** For a project, live rows had `blk`,
+  `unit` (masked, `23-xx`), `beds` and `sale_type`; for a wider area they had `address` and
+  `type` instead. Each response lists its own `columns`, so read that rather than assuming
+  a fixed set. `profit` and `holding_period` are only filled for resales with a known
+  previous sale.
 - **Market endpoints do not take the whole island.** `/transactions` and
   `/transaction-trends` need a project, area or district id; `singapore` is not accepted.
 
