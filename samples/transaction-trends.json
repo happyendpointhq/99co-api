@@ -1,0 +1,47 @@
+{
+  "success": true,
+  "data": {
+    "period": "2022 - 2026",
+    "trend": [
+      {
+        "period": "2022",
+        "averagePrice": 9080000,
+        "averagePriceFormatted": "S$ 9.080M",
+        "transactionCount": 4,
+        "timestamp": 1640966400000
+      },
+      {
+        "period": "2023",
+        "averagePrice": 8766977.6,
+        "averagePriceFormatted": "S$ 8.767M",
+        "transactionCount": 10,
+        "timestamp": 1672502400000
+      }
+    ],
+    "priceRange": {
+      "min": 8633600,
+      "max": 15695000
+    },
+    "transactionCountRange": {
+      "min": 4,
+      "max": 10
+    },
+    "summary": {
+      "lowestPrice": "S$ 5.080M",
+      "highestPrice": "S$ 24.500M",
+      "averagePsf": "S$ 2,512.17 psf",
+      "breakdown": {
+        "columns": [
+          "Bedrooms",
+          "Avg Price (PSF)"
+        ],
+        "rows": [
+          [
+            "4 Bedrooms",
+            "S$ 2,512 psf"
+          ]
+        ]
+      }
+    }
+  }
+}

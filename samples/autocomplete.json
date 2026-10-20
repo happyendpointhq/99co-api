@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "data": {
+    "sections": [
+      {
+        "group": "MRT/LRT",
+        "locations": [
+          {
+            "id": "sg-mrt-orchard",
+            "type": "subway_station",
+            "title": "Orchard",
+            "subtitle": "MRT",
+            "lat": 1.304292,
+            "lng": 103.832494
+          }
+        ]
+      },
+      {
+        "group": "District",
+        "locations": [
+          {
+            "id": "dtdistrict09",
+            "type": "district",
+            "title": "D9 - Orchard / River Valley",
+            "subtitle": "District",
+            "lat": 1.3024,
+            "lng": 103.8391
+          }
+        ]
+      },
+      {
+        "group": "Project",
+        "locations": [
+          {
+            "id": "derMAQynz2P9eXeXmJV9He6A",
+            "type": "cluster",
+            "title": "Orchard Bel Air",
+            "subtitle": "Condo",
+            "mainCategories": [
+              "condo"
+            ],
+            "newLaunch": false,
+            "lat": 1.3023,
+            "lng": 103.8249
+          }
+        ]
+      }
+    ]
+  }
+}

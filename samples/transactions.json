@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "count": 20,
+    "columns": [
+      {
+        "key": "date",
+        "title": "Date"
+      },
+      {
+        "key": "address",
+        "title": "Address"
+      }
+    ],
+    "transactions": [
+      {
+        "clusterId": "adH9bGF2ZUwdA7cAqox2cisg",
+        "isProject": false,
+        "date": "04/2026",
+        "address": "Watten Park",
+        "area": "4,029",
+        "psf_psm": "S$ 3,323",
+        "price": "S$ 13.390M",
+        "profit": "+S$ 2.890M",
+        "holding_period": "6.5",
+        "type": "Semi-Detached",
+        "sale_type": "Resale"
+      }
+    ]
+  }
+}

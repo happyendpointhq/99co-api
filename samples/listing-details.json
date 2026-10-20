@@ -1,0 +1,151 @@
+{
+  "success": true,
+  "data": {
+    "id": "nUakgpSzMK6eJr9KHKnhZp",
+    "title": "Helios Residences",
+    "subtitle": "17 Cairnhill Circle · Condo for Rent",
+    "listingType": "rent",
+    "mainCategory": "condo",
+    "subCategory": "generic_condo",
+    "propertySegment": "residential",
+    "price": "S$ 8,200",
+    "priceValue": 8200,
+    "beds": 2,
+    "bedsFormatted": "2 Beds",
+    "clusterId": "deBGDVoEJmwS54CpHXQoepg7",
+    "projectName": "Helios Residences",
+    "address": {
+      "formatted": "17 Cairnhill Circle 229816",
+      "streetName": "Cairnhill Circle",
+      "streetNumber": "17",
+      "postalCode": "229816",
+      "districtNumber": 9,
+      "region": "Central Region",
+      "neighbourhood": "Cairnhill",
+      "lat": 1.30669602374661,
+      "lng": 103.8379826627265
+    },
+    "status": "active",
+    "isAvailable": true,
+    "is99Exclusive": false,
+    "isOwnerListing": false,
+    "isNewLaunch": false,
+    "isMustSee": true,
+    "isColiving": false,
+    "hdbUnitConfiguration": "HDB",
+    "videoViewingAvailable": false,
+    "postedAt": 1792501149518961,
+    "publishedAt": 1786677768830404,
+    "shareUrl": "https://www.99.co/singapore/rent/property/helios-residences-condo-nUakgpSzMK6eJr9KHKnhZp?utm_medium=referral&utm_source=user&utm_campaign=ldp",
+    "searchUrl": "/singapore/rent?query_ids=deBGDVoEJmwS54CpHXQoepg7&query_type=cluster&query_limit=radius&radius=1000&listing_type=rent&zoom=15&property_segments=residential&query_coords=1.30669602374661%2C103.8379826627265",
+    "description": {
+      "text": "- 2+1 study room.\n- High floor, Full condo facilities.\n- Walking distance to Orchard Road.\n- Available immediate.\n\n\n***NOTE: Property Photos shown are for illustration purposes only.",
+      "uspTags": [
+        "High Floor",
+        "Immediate Availability",
+        "Full Condo Facilities"
+      ]
+    },
+    "details": {
+      "Price/sqft": "S$ 6.4 psf",
+      "Floor Level": "High",
+      "Furnishing": "Partial",
+      "Built year": "2011",
+      "Tenure": "Freehold",
+      "Property type": "Condo Whole Unit",
+      "Last updated": "1 hr ago"
+    },
+    "lease": {
+      "Availability": "Now"
+    },
+    "amenities": [
+      "Balcony",
+      "Clubhouse",
+      "Swimming Pool"
+    ],
+    "nearestMrt": {
+      "text": "8 mins (629 m) from Newton MRT",
+      "type": "walk",
+      "url": "/singapore/mrt-stations/newton-mrt"
+    },
+    "transactionHistory": {
+      "columns": [
+        "Date",
+        "Size",
+        "Beds"
+      ],
+      "rows": [
+        [
+          "01/09/2026",
+          "1,900 - 2,000 sqft",
+          "3-room"
+        ],
+        [
+          "01/09/2026",
+          "1,700 - 1,800 sqft",
+          "3-room"
+        ],
+        [
+          "01/09/2026",
+          "1,200 - 1,300 sqft",
+          "2-room"
+        ]
+      ]
+    },
+    "insights": [
+      {
+        "text": "This property 27% more than the avg. 2-bedroom in District 9",
+        "subtitle": "Avg. price: S$ 6,000"
+      },
+      {
+        "text": "This property 23% larger than the avg. 2-bedroom in District 9",
+        "subtitle": "Avg. size: 990 sqft"
+      }
+    ],
+    "projectOverview": {
+      "clusterId": "deBGDVoEJmwS54CpHXQoepg7",
+      "clusterUrl": "/singapore/condos-apartments/helios-residences",
+      "imageUrl": "https://pic2.99.co/v3/qL6iepeK87mGqEBWozauke?text=99&sampling=lanczos&version=1&width=1440&mode=fill&quality=80&is_watermark=True&signature=8c1a337a5afacce4ebeb8a4ac468fd31227587a3",
+      "hasFloorPlans": true,
+      "details": {
+        "Name": "Helios Residences",
+        "Unit types": "2, 3, 4 BR",
+        "Total units": "140",
+        "Built year": "2011",
+        "Tenure": "Freehold",
+        "Developer": "Winnervest Investment Pte Ltd (Wing Tai)"
+      }
+    },
+    "floorPlans": [
+      {
+        "url": "https://pic2.99.co/v3/NK2owPYFjmQgoRye3YCqZR?text=99&sampling=lanczos&version=1&color=92929259&mode=fill&quality=80&is_watermark=True&signature=f8ca75712331a1278393fb42bcbf3a4ecd1e93c0",
+        "caption": "B2 - 1,281 sqft / 119 sqm",
+        "subtitle": "3 Bed - 2 Bath"
+      }
+    ],
+    "videos": [],
+    "virtualTours": [],
+    "nearbyAmenityCategories": [
+      "MRT Stations",
+      "Bus Stops",
+      "Schools"
+    ],
+    "photos": [
+      {
+        "url": "https://pic2.99.co/v3/<photo-id>?height=600&width=800",
+        "caption": "",
+        "category": "Living Room"
+      },
+      {
+        "url": "https://pic2.99.co/v3/<photo-id>?height=600&width=800",
+        "caption": "",
+        "category": "Living Room"
+      },
+      {
+        "url": "https://pic2.99.co/v3/<photo-id>?height=600&width=800",
+        "caption": "",
+        "category": "Others"
+      }
+    ]
+  }
+}

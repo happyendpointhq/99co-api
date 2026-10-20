@@ -1,0 +1,24 @@
+{
+  "success": true,
+  "data": {
+    "title": "134 New Launches for Sale in Singapore",
+    "total": 134,
+    "projects": [
+      {
+        "id": "devUsArN6xV4YUSvJBPJWHub",
+        "title": "21 Anderson",
+        "subtitle": "Anderson Road · D10\nTOP 2027 · Freehold\n18 total units",
+        "projectUrl": "/singapore/condos-apartments/21-anderson",
+        "priceRange": "S$ 10 M - S$ 58.85 M",
+        "latestTransaction": {
+          "price": "S$ 10 M - S$ 58.85 M",
+          "date": "07/04/2026",
+          "area": "4,489 sqft"
+        },
+        "photos": [
+          "https://pic2.99.co/v3/..."
+        ]
+      }
+    ]
+  }
+}

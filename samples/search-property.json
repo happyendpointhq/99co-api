@@ -1,0 +1,112 @@
+{
+  "success": true,
+  "data": {
+    "results": {
+      "title": "Residential Properties for Rent in District 9",
+      "totalCount": 317,
+      "totalCountFormatted": "317",
+      "listings": [
+        {
+          "id": "nUakgpSzMK6eJr9KHKnhZp",
+          "title": "2+1 Bed Condo for Rent in Helios Residences",
+          "mainCategory": "condo",
+          "subCategory": "generic_condo",
+          "propertySegment": "residential",
+          "price": 8200,
+          "priceFormatted": "S$ 8,200",
+          "psf": "S$ 6.4",
+          "beds": "2",
+          "bathrooms": 2,
+          "floorAreaSqft": 1281,
+          "buildupSqft": null,
+          "landAreaSqft": null,
+          "builtYear": "2011",
+          "furnishing": "Partially furnished",
+          "leaseType": null,
+          "estMortgage": null,
+          "highlights": null,
+          "fitting": null,
+          "address": "17 Cairnhill Circle 229816",
+          "lat": 1.30669602374661,
+          "lng": 103.8379826627265,
+          "neighbourhood": "Cairnhill",
+          "region": "Central Region",
+          "listingStatus": "must_see",
+          "postedAt": "1h",
+          "photoCount": 10,
+          "floorPlanCount": 0,
+          "videoCount": 0,
+          "photos": [
+            "https://pic2.99.co/v3/<photo-id>?height=600&width=800",
+            "https://pic2.99.co/v3/<photo-id>?height=600&width=800"
+          ],
+          "nearestMrt": {
+            "name": "Newton MRT",
+            "walkOrTransit": "walk",
+            "duration": 8,
+            "durationFormatted": "8 mins",
+            "distance": 629,
+            "url": "/singapore/mrt-stations/newton-mrt"
+          },
+          "uspTags": [
+            "High Floor",
+            "Immediate Availability"
+          ]
+        },
+        {
+          "id": "QZe7vuL3BaFFFmTf5HeTxR",
+          "title": "2 Bed Apartment (Condo) for Rent in The Vermont On Cairnhill",
+          "mainCategory": "condo",
+          "subCategory": "condo_apartment",
+          "propertySegment": "residential",
+          "price": 5600,
+          "priceFormatted": "S$ 5,600",
+          "psf": "S$ 6.27",
+          "beds": "2",
+          "bathrooms": 2,
+          "floorAreaSqft": 893,
+          "buildupSqft": null,
+          "landAreaSqft": null,
+          "builtYear": "2014",
+          "furnishing": "Partially furnished",
+          "leaseType": null,
+          "estMortgage": null,
+          "highlights": null,
+          "fitting": null,
+          "address": "12B Cairnhill Rise 229747",
+          "lat": 1.3087402216443833,
+          "lng": 103.83844080306368,
+          "neighbourhood": "Cairnhill",
+          "region": "Central Region",
+          "listingStatus": "must_see",
+          "postedAt": "1h",
+          "photoCount": 9,
+          "floorPlanCount": 1,
+          "videoCount": 0,
+          "photos": [
+            "https://pic2.99.co/v3/<photo-id>?height=600&width=800",
+            "https://pic2.99.co/v3/<photo-id>?height=600&width=800"
+          ],
+          "nearestMrt": {
+            "name": "Newton MRT",
+            "walkOrTransit": "walk",
+            "duration": 5,
+            "durationFormatted": "5 mins",
+            "distance": 390,
+            "url": "/singapore/mrt-stations/newton-mrt"
+          },
+          "uspTags": [
+            "Near MRT Station",
+            "Move-In Ready"
+          ]
+        }
+      ]
+    },
+    "nearbyResults": {
+      "title": "Nearby listings within 2km",
+      "totalCount": 669,
+      "totalCountFormatted": "669",
+      "listings": []
+    }
+  }
+}
