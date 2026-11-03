@@ -10,6 +10,8 @@ Built and maintained by [Happy Endpoint](https://happyendpoint.com/library/99co-
 
 - Subscribe and test every endpoint on RapidAPI: https://rapidapi.com/happyendpoint/api/99-co-sg-api
 - Product page: https://happyendpoint.com/library/99co-api?utm_source=github&utm_medium=readme&utm_campaign=99co-api
+- Postman documentation: https://documenter.getpostman.com/view/56555678/2sBYHXQyU3
+- Postman collection (fork and run): https://www.postman.com/happyendpoints-team/99-co-api
 
 ---
 
