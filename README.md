@@ -326,6 +326,8 @@ Rent.com and Realtor.com in the US, and Suumo in Japan. See the
 - [awesome-real-estate-apis](https://github.com/happyendpointhq/awesome-real-estate-apis) - real estate APIs and data sources by country, including free and official ones
 - [uae-real-estate-api](https://github.com/happyendpointhq/uae-real-estate-api) - Bayut and PropertyFinder through one API, with asking-vs-paid examples
 - [rent-com-api](https://github.com/happyendpointhq/rent-com-api) - US rental listings, floor plans and rent estimates
+- [yad2-api](https://github.com/happyendpointhq/yad2-api) - Israel listings with government-registered sale prices
+- [fotocasa-api](https://github.com/happyendpointhq/fotocasa-api) - Spanish listings for sale and rent
 - [bayut-api-python-examples](https://github.com/happyendpointhq/bayut-api-python-examples) - more Python patterns for a property API
 
 ---
