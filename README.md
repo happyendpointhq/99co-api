@@ -329,6 +329,8 @@ Rent.com and Realtor.com in the US, and Suumo in Japan. See the
 - [yad2-api](https://github.com/happyendpointhq/yad2-api) - Israel listings with government-registered sale prices
 - [fotocasa-api](https://github.com/happyendpointhq/fotocasa-api) - Spanish listings for sale and rent
 - [bayut-api-python-examples](https://github.com/happyendpointhq/bayut-api-python-examples) - more Python patterns for a property API
+- [hepsiemlak-api](https://github.com/happyendpointhq/hepsiemlak-api) - Turkey listings for sale and rent, with a price index per m2 by province and district
+- [cian-api](https://github.com/happyendpointhq/cian-api) - Russia listings with asking-price history, market estimates and new-build complexes
 
 ---
 
